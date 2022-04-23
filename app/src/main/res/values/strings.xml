@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">AndroidHomework1</string>
+    <string name="activity1">Второе активити</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="input_text">Введите слово</string>
+    <string name="btn_text">Отправить на сервер</string>
+    <string name="switch_text">Включить экономию энергии</string>
+    <string name="check_box1">Вариант 1</string>
+    <string name="check_box2">Вариант 2</string>
+    <string name="check_box3">Вариант 3</string>
+    <string name="hint_name">Введите имя</string>
+    <string name="hint_phone">Введите номер телефона</string>
+    <string name="person_name">Имя</string>
+    <string name="hint_person_name">Введите ваше имя</string>
+    <string name="hint_number">Введите ваш порядковый номер</string>
+    <string name="text">Карточка сотрудника</string>
+    <string name="hint_password">Введите пароль</string>
+    <string name="hint_email">Введите e-mail</string>
+    <string name="pass_to_activity1">Переход к следующему экрану</string>
 </resources>
